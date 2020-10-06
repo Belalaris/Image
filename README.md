@@ -1,2 +1,2 @@
-# image
-storage of various images
+# Image
+Storage of various images
